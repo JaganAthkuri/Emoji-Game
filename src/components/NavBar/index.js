@@ -27,7 +27,7 @@ class NavBar extends Component {
               src="https://assets.ccbp.in/frontend/react-js/game-logo-img.png"
               alt="Emoji Logo"
             />
-            <h1 className="title">Emoji Game</h1>
+            <h1 className="title">Emojix Game</h1>
           </div>
           {this.renderScores()}
         </div>
